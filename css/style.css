@@ -1,0 +1,76 @@
+body{
+    font-family: var(--main-source);
+    background-color: var(--background-color);
+    height: 100vh;
+}
+
+.page-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.page-wrapper .card{
+    background-color: #fff;
+    border-radius: 8px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.profile-container{
+    padding: 30px 0;
+}
+
+.profile-container .profile-avatar{
+    width: 25%;
+    border-radius: 100%;
+}
+
+.profile-container .name{
+    font-size: var(--title-source);
+    display: flex;
+    justify-content: center;
+    margin: 1.7rem 0;
+}
+
+.profile-container .name-number{
+    font-size: var(--title-source);
+    padding-left: 5px;
+    color: var(--text-color);
+}
+
+.profile-container .localization{
+    font-size: var(--title-source);
+    color: var(--text-color);
+
+}
+
+.page-wrapper hr{
+    border: none;
+    border: 1px solid rgba(106, 111, 129, .2);
+
+}
+
+.statistics-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 0 50px;
+    padding: 30px;
+}
+
+.statistics-container .info{
+    font-size: var(--title-source);
+}
+
+.statistics-container .info .counter{
+    font-weight: 700;
+}
+
+.statistics-container .info .counter-type{
+    color: var(--text-color);
+}
+    
+
+
