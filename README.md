@@ -1,10 +1,10 @@
 # 🚀 Componente de Cartão de Perfil (Profile Card)
 
-Este é um projeto de front-end que consiste em um componente de cartão de perfil de usuário. É um design limpo e moderno, ideal para praticar habilidades fundamentais de HTML5 e CSS3, especialmente o alinhamento com Flexbox.
+Este é um projeto de front-end que desenvolvi para resolver um exercício proposto pelo curso DevQuest. Ele consiste na criação de um componente de cartão de perfil de usuário com um design limpo e moderno, ideal para praticar habilidades fundamentais de HTML5 e CSS3, especialmente o alinhamento com Flexbox.
 
 ## 📸 Screenshot
 
-[<img src="./images/card.gif" alt="screenshot">]
+<img src="./images/card.gif" alt="screenshot">
 
 ## ✨ Descrição do Projeto
 
@@ -47,6 +47,7 @@ Por ser um projeto estático, não há necessidade de instalação de dependênc
 2.  Navegue até a pasta do projeto.
 3.  Abra o arquivo `index.html` no seu navegador de preferência.
 
-## ✒️ Autor
+## 👨‍💻 Autor
+Desenvolvido por **[Vinicius Eduardo Morais Creso]**, um desenvolvedor em formação.
 
-Este projeto foi desenvolvido como um exercício do curso DevQuest. Sinta-se à vontade para utilizá-lo como inspiração para seus próprios estudos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
